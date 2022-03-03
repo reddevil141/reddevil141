@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reddevil141
+- 👋 Hi, I’m Prajwal aka @reddevil141
 - 👀 I’m interested in Developing and Competitive programming and I love writing!
 - 🌱 I’m currently pursuing my BTech in IT @Geca
 - 💞️ I’m looking to collaborate on Fontend development
